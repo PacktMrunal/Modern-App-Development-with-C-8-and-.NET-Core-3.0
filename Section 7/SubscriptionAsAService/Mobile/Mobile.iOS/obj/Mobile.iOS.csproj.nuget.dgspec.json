@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile.iOS\\Mobile.iOS.csproj": {}
+  },
+  "projects": {
+    "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\dimlu\\.nuget\\packages\\",
+        "outputPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile.iOS\\Mobile.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile.iOS\\Mobile.iOS.csproj",
+        "projectName": "Mobile.iOS",
+        "projectPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile.iOS\\Mobile.iOS.csproj",
+        "packagesPath": "C:\\Users\\dimlu\\.nuget\\packages\\",
+        "outputPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile\\Mobile.csproj": {
+                "projectPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile\\Mobile.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.0.0.304370-pre8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile\\Mobile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile\\Mobile.csproj",
+        "projectName": "Mobile",
+        "projectPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile\\Mobile.csproj",
+        "packagesPath": "C:\\Users\\dimlu\\.nuget\\packages\\",
+        "outputPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Mobile\\Mobile\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dimlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Common\\Common.csproj": {
+                "projectPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\Modern App Development with C# 8.0 and .NET Core 3.0\\Section 7\\SubscriptionAsAService\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.0.0.304370-pre8, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

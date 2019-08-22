@@ -1,0 +1,12 @@
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\bin\Debug\netcoreapp3.0\Section1Video4.exe
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\bin\Debug\netcoreapp3.0\Section1Video4.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\bin\Debug\netcoreapp3.0\Section1Video4.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\bin\Debug\netcoreapp3.0\Section1Video4.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\bin\Debug\netcoreapp3.0\Section1Video4.dll
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\bin\Debug\netcoreapp3.0\Section1Video4.pdb
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\obj\Debug\netcoreapp3.0\Section1Video4.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\obj\Debug\netcoreapp3.0\Section1Video4.csproj.CoreCompileInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\obj\Debug\netcoreapp3.0\Section1Video4.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\obj\Debug\netcoreapp3.0\Section1Video4.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\obj\Debug\netcoreapp3.0\Section1Video4.dll
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 1\Video 4\Section1Video4\Section1Video4\obj\Debug\netcoreapp3.0\Section1Video4.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile.Pages.SignUpPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Sign Up!"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   FontSize="28"
+                   Margin="0,0,0,12">
+                
+            </Label>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackLayout>
+                    <Label>First Name</Label>
+                    <Entry x:Name="FirstNameEntry" Text="{Binding User.FirstName}"/>
+                </StackLayout>
+                <StackLayout Grid.Column="1">
+                    <Label>Last Name</Label>
+                    <Entry x:Name="LastNameEntry" Text="{Binding User.LastName}"/>
+                </StackLayout>
+            </Grid>
+            <Label>Email</Label>
+            <Entry x:Name="EmailEntry" Text="{Binding User.Email}"/>
+            <Label>Password</Label>
+            <Entry x:Name="PasswordEntry" Text="{Binding User.Password}"/>
+            <Button x:Name="SignUpBtn" Text="Sign Up!" Command="{Binding SignUpCommand}">
+                
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

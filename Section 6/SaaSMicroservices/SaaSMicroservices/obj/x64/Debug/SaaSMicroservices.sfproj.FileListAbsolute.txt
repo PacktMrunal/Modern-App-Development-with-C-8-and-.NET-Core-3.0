@@ -1,0 +1,1 @@
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SaaSMicroservices\SaaSMicroservices\obj\x64\Debug\SaaSMicroservices.sfproj.CoreCompileInputs.cache

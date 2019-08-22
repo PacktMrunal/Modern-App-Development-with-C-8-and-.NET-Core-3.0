@@ -1,0 +1,24 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/users/${all}",
+      "UpstreamPathTemplate": "/api/users/${all}",
+      "DownstreamScheme": "http",
+      "ServiceName": "SaaSMicroservices/Identity"
+    },
+    {
+      "DownstreamPathTemplate": "/api/plans/${all}",
+      "UpstreamPathTemplate": "/api/plans/${all}",
+      "DownstreamScheme": "http",
+      "ServiceName": "SaaSMicroservices/Plans"
+    }
+  ],
+  "GlobalConfiguration": {
+    "RequestIdKey": "OcRequestId",
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 19081,
+      "Type": "ServiceFabric"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Mobile"
+             x:Class="Mobile.MainPage">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+        <Button x:Name="SignUpBtn" Text="Sign Up" Clicked="SignUpBtn_Clicked"></Button>
+        <Button x:Name="SignInBtn" Text="Sign In" Clicked="SignInBtn_Clicked"></Button>
+        <Button x:Name="DashboardBtn" Text="Dashboard" Clicked="DashboardBtn_Clicked"></Button>
+        
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\bin\Debug\netstandard2.0\Common.dll
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\obj\Debug\netstandard2.0\Common.csproj.CopyComplete
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\obj\Debug\netstandard2.0\Common.dll
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 5\SubscriptionAsAService\Common\obj\Debug\netstandard2.0\Common.pdb

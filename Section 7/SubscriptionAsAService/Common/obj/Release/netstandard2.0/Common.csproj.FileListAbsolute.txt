@@ -1,0 +1,4 @@
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 7\SubscriptionAsAService\Common\obj\Release\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 7\SubscriptionAsAService\Common\obj\Release\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 7\SubscriptionAsAService\Common\obj\Release\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 7\SubscriptionAsAService\Common\obj\Release\netstandard2.0\Common.AssemblyInfo.cs

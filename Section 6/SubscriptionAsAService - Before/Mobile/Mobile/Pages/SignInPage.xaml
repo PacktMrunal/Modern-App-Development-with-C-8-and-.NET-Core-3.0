@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile.Pages.SignInPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Sign In!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="28"
+                Margin="0,0,0,12"/>
+            <Label>Email</Label>
+            <Entry x:Name="EmailEntry" Text="{Binding User.Email}"/>
+            <Label>Password</Label>
+            <Entry x:Name="PasswordEntry" Text="{Binding User.Password}"/>
+            <Button x:Name="SignInBtn" Text="Sign In!" Command="{Binding SignInCommand}">
+                
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

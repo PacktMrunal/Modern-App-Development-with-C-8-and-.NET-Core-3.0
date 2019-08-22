@@ -1,0 +1,41 @@
+@string/appbar_scrolling_view_behavior;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\rootlayout.xml
+@string/appbar_scrolling_view_behavior;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\shellcontent.xml
+adaptive-icon;obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\enterfromleft.xml
+alpha;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\81\res\layout\tabbar.xml
+android.support.v4.widget.NestedScrollView;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\rootlayout.xml
+android.support.v4.widget.NestedScrollView;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\shellcontent.xml
+android.support.v7.widget.RecyclerView;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\81\res\layout\toolbar.xml
+background;obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+color;obj\Debug\81\res\values\colors.xml
+foreground;obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\bottomtablayout.xml
+item;obj\Debug\81\res\values\styles.xml
+LinearLayout;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\layout\bottomtablayout.xml
+resources;obj\Debug\81\res\values\colors.xml
+resources;obj\Debug\81\res\values\styles.xml
+set;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\enterfromleft.xml
+set;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\enterfromright.xml
+set;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\exittoleft.xml
+set;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\exittoright.xml
+style;obj\Debug\81\res\values\styles.xml
+translate;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\enterfromleft.xml
+translate;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\enterfromright.xml
+translate;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\exittoleft.xml
+translate;D:\dimlucas\Google Drive\Documents\Packt\Modern App Development with C# 8.0 and .NET Core 3.0\Section 6\SubscriptionAsAService - Before\Mobile\Mobile.Android\obj\Debug\81\lp\26\jl\res\anim\exittoright.xml
